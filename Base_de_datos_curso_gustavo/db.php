@@ -1,0 +1,4 @@
+<?php
+$server = "localhost"
+
+?>
